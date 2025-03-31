@@ -78,8 +78,6 @@ Retrieve all the available sales records from the `ylwmart` dataset.
 - Count the total number of orders received each year.  
 - Output Columns: `OrderYear`, `OrderCount`.  
 
-## 🔧 Technologies Used  
-- **SQL (MySQL/PostgreSQL)**  
-- **Data Cleaning & Transformation**  
+## 🔧 Function Used  
 - **Aggregation Functions (SUM, COUNT, MAX)**  
 - **String Manipulation (REPLACE, TRIM, LOWER, UPPER, CONCAT)**
